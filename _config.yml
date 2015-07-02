@@ -1,4 +1,4 @@
 name: Collaboratory Style Guide
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 baseurl: /style-guide
